@@ -1,0 +1,1 @@
+All tests pass because I wrote them to test the tests, not the product — the product was never invited to the meeting.
